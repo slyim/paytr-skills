@@ -1,0 +1,4 @@
+interface:
+  display_name: "PayTR Integration"
+  short_description: "Build and review reliable PayTR payment integrations"
+  default_prompt: "Use $paytr to implement or audit my PayTR payment integration."
